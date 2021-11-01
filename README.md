@@ -63,7 +63,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Visual Decoding
 
-[From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://proceedings.neurips.cc/paper/2019/file/7d2be41b1bde6ff8fe45150c37488ebb-Paper.pdf), NeurIPS 2019 [[code]] (https://github.com/WeizmannVision/ssfmri2im)
+[From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://proceedings.neurips.cc/paper/2019/file/7d2be41b1bde6ff8fe45150c37488ebb-Paper.pdf), NeurIPS 2019 [[code]](https://github.com/WeizmannVision/ssfmri2im)
 
 ### Auditory Decoding
 
