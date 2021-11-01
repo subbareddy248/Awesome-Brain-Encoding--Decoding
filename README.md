@@ -37,6 +37,8 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [CogniVal: A Framework for Cognitive Word Embedding Evaluation](https://aclanthology.org/K19-1050.pdf), CoNLL 2019 [[code]](https://github.com/DS3Lab/cognival)
 
+[The neural architecture of language: Integrative reverse-engineering converges on a model for predictive processing](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v2.full.pdf), [[code]](https://github.com/mschrimpf/neural-nlp/tree/master/ressources)
+
 [Disentangling Syntax and Semantics in the Brain with Deep Networks](https://arxiv.org/pdf/2103.01620.pdf), ICML 2021
 
 ### Visual Encoding
