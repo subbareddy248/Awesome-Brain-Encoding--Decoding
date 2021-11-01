@@ -39,7 +39,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [The neural architecture of language: Integrative reverse-engineering converges on a model for predictive processing](https://www.biorxiv.org/content/10.1101/2020.06.26.174482v2.full.pdf), PNAS 2021 [[code]](https://github.com/mschrimpf/neural-nlp/tree/master/ressources)
 
-[Disentangling Syntax and Semantics in the Brain with Deep Networks](https://arxiv.org/pdf/2103.01620.pdf), ICML 2021
+[Disentangling Syntax and Semantics in the Brain with Deep Networks](https://arxiv.org/pdf/2103.01620.pdf), ICML 2021 [[slides]](https://icml.cc/media/icml-2021/Slides/9271_rcXwrEs.pdf)
 
 ### Visual Encoding
 
@@ -77,6 +77,8 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 
 # Tutorials
+
+[Encoding and Decoding Speech From the Human Brain](https://www.youtube.com/watch?v=aM6N7aTUJxI), Edward Chang, ICML 2021
 
 # Slides
 
