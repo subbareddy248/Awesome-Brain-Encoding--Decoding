@@ -93,5 +93,8 @@ Reconstructing Speech from Human Auditory Cortex(http://www.cs.toronto.edu/~lex/
 ### Movies
 [UC Berkeley](https://berkeley.app.box.com/s/l95gie5xtv56zocsgugmb7fs12nujpog/folder/142176642528)
 
+### Listening and Reading Stories
+[UC Berkeley](https://berkeley.app.box.com/v/Deniz-et-al-2019/folder/91887116790?page=1)
+
 
 
