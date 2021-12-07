@@ -65,7 +65,12 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Linguistic Decoding
 
+[Brain2Word: Decoding Brain Activity for Language Generation](https://arxiv.org/pdf/2009.04765.pdf), [[code]](https://github.com/nicolaffETHZ/Brain2Word_paper)
+
+[Linking artificial and human neural representations of language](https://aclanthology.org/D19-1050.pdf), EMNLP 2019, [[code]](https://github.com/hans/nn-decoding)
+
 [Toward a universal decoder of linguistic meaning from brain activation](https://www.nature.com/articles/s41467-018-03068-4), Nature Communications 2018
+
 
 ### Visual Decoding
 
