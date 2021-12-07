@@ -93,7 +93,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 # Slides
 
-Reconstructing Speech from Human Auditory Cortex(http://www.cs.toronto.edu/~lex/notes/CSC2518-presentation.pdf)
+[Reconstructing Speech from Human Auditory Cortex](http://www.cs.toronto.edu/~lex/notes/CSC2518-presentation.pdf)
 
 # Courses
 
@@ -104,6 +104,8 @@ Reconstructing Speech from Human Auditory Cortex(http://www.cs.toronto.edu/~lex/
 
 ### Listening and Reading Stories
 [UC Berkeley](https://berkeley.app.box.com/v/Deniz-et-al-2019/folder/91887116790?page=1)
+[Narratives](https://datasets.datalad.org/?dir=/labs/hasson/narratives)
+[The Moth Radio Hour]
 
 
 
