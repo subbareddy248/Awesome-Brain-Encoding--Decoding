@@ -43,6 +43,10 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [Disentangling Syntax and Semantics in the Brain with Deep Networks](https://arxiv.org/pdf/2103.01620.pdf), ICML 2021 [[slides]](https://icml.cc/media/icml-2021/Slides/9271_rcXwrEs.pdf)
 
+[Modeling task effects on meaning representation in the brain via zero-shot MEG prediction](https://arxiv.org/pdf/2009.08424.pdf), NeurIPS 2020 [[code]](https://github.com/otiliastr/brain_task_effect), [[slides]](https://drive.google.com/file/d/1-q7R3a0jxH_zE6of7aD4at6NgviyCZW8/view)
+
+[Incorporating Context into Language Encoding Models for fMRI](https://proceedings.neurips.cc/paper/2018/file/f471223d1a1614b58a7dc45c9d01df19-Paper.pdf), NeurIPS 2018
+
 ### Visual Encoding
 
 [Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs](https://proceedings.neurips.cc/paper/2019/file/7813d1590d28a7dd372ad54b5d29d033-Paper.pdf), NeurIPS 2019
