@@ -76,6 +76,8 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://proceedings.neurips.cc/paper/2019/file/7d2be41b1bde6ff8fe45150c37488ebb-Paper.pdf), NeurIPS 2019 [[code]](https://github.com/WeizmannVision/ssfmri2im)
 
+[Reconstructing Perceived Images from Human Brain Activities with Bayesian Deep Multi-view Learning](https://ieeexplore.ieee.org/document/8574054), IEEE TNNLS 2018
+
 ### Auditory Decoding
 
 [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z), Nature Scientific Reports 2019 [[code]](http://naplab.ee.columbia.edu/naplib.html)
@@ -104,7 +106,9 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Listening and Reading Stories
 [UC Berkeley](https://berkeley.app.box.com/v/Deniz-et-al-2019/folder/91887116790?page=1)
+
 [Narratives](https://datasets.datalad.org/?dir=/labs/hasson/narratives)
+
 [The Moth Radio Hour]
 
 
