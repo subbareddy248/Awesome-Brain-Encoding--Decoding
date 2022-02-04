@@ -36,6 +36,9 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ## Brain Encoding
 
 ### Linguistic Encoding
+[SYNTACTIC REPRESENTATIONS IN THE HUMAN BRAIN: BEYOND EFFORT-BASED METRICS](https://openreview.net/pdf?id=A7-rYAC-np1)
+
+[Can fMRI reveal the representation of syntactic structure in the brain?](https://openreview.net/pdf?id=fCjd2bXG5iI), NeurIPS 2021 [[code]](https://github.com/anikethjr/brain_syntactic_representations)
 
 [CogniVal: A Framework for Cognitive Word Embedding Evaluation](https://aclanthology.org/K19-1050.pdf), CoNLL 2019 [[code]](https://github.com/DS3Lab/cognival)
 
