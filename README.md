@@ -36,6 +36,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ## Brain Encoding
 
 ### Linguistic Encoding
+
 [SYNTACTIC REPRESENTATIONS IN THE HUMAN BRAIN: BEYOND EFFORT-BASED METRICS](https://openreview.net/pdf?id=A7-rYAC-np1)
 
 [Can fMRI reveal the representation of syntactic structure in the brain?](https://openreview.net/pdf?id=fCjd2bXG5iI), NeurIPS 2021 [[code]](https://github.com/anikethjr/brain_syntactic_representations)
@@ -48,7 +49,14 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [Modeling task effects on meaning representation in the brain via zero-shot MEG prediction](https://arxiv.org/pdf/2009.08424.pdf), NeurIPS 2020 [[code]](https://github.com/otiliastr/brain_task_effect), [[slides]](https://drive.google.com/file/d/1-q7R3a0jxH_zE6of7aD4at6NgviyCZW8/view)
 
+[Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)](https://arxiv.org/pdf/1905.11833.pdf), NeurIPS 2019 [[code]]( https://github.com/mtoneva/brain_language_nlp)
+
+[Inducing brain-relevant bias in natural language processing models](https://arxiv.org/pdf/1911.03268.pdf), NeurIPS 2019 [[code]](https://github.com/danrsc/bert_brain_neurips_2019)
+
 [Incorporating Context into Language Encoding Models for fMRI](https://proceedings.neurips.cc/paper/2018/file/f471223d1a1614b58a7dc45c9d01df19-Paper.pdf), NeurIPS 2018
+
+[Aligning context-based statistical models of language with brain activity during reading](https://aclanthology.org/D14-1030/), EMNLP 2014
+
 
 ### Visual Encoding
 
