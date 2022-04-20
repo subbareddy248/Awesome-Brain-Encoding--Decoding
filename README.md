@@ -37,7 +37,9 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Linguistic Encoding
 
-[SYNTACTIC REPRESENTATIONS IN THE HUMAN BRAIN: BEYOND EFFORT-BASED METRICS](https://openreview.net/pdf?id=A7-rYAC-np1)
+[Long-Term Plausibility of Language Models and Neural Dynamics during Narratives Listening](https://drive.google.com/file/d/1Ua19A8fT_4BJxSNHKdOw5H6e7__WacWz/view?usp=sharing), Cogsci 2022
+
+[Neural Language Taskonomy: Which NLP Tasks are the most Predictive of fMRI Brain Activity?](https://drive.google.com/file/d/1GXUscjrmcU5jUzFP5vLixgMEqHw4_TBO/view), NAACL 2022
 
 [Can fMRI reveal the representation of syntactic structure in the brain?](https://openreview.net/pdf?id=fCjd2bXG5iI), NeurIPS 2021 [[code]](https://github.com/anikethjr/brain_syntactic_representations)
 
