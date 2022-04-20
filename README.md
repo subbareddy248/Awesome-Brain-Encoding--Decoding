@@ -103,6 +103,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 
 # Tutorials
+[Deep Learning for Brain Encoding and Decoding](https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1271-cogsci22a-sub1271-i10.pdf), Subba Reddy Oota, Cogsci 2022
 
 [Encoding and Decoding Speech From the Human Brain](https://www.youtube.com/watch?v=aM6N7aTUJxI), Edward Chang, ICML 2021
 
