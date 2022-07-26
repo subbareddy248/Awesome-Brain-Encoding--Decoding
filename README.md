@@ -80,7 +80,11 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [Brain2Word: Decoding Brain Activity for Language Generation](https://arxiv.org/pdf/2009.04765.pdf), [[code]](https://github.com/nicolaffETHZ/Brain2Word_paper)
 
+[Does injecting linguistic structure into language models lead to better alignment with brain recordings?](https://openreview.net/forum?id=9y4qOAIfA9r)), [[code]](https://github.com/mhany90/Structural_bias_brain)
+
 [Linking artificial and human neural representations of language](https://aclanthology.org/D19-1050.pdf), EMNLP 2019, [[code]](https://github.com/hans/nn-decoding)
+
+[Towards sentence-level brain decoding with distributed representations](https://ojs.aaai.org/index.php/AAAI/article/view/4685/4563), AAAI 2019
 
 [Toward a universal decoder of linguistic meaning from brain activation](https://www.nature.com/articles/s41467-018-03068-4), Nature Communications 2018
 
