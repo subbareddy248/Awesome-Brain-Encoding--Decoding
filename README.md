@@ -78,7 +78,9 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Multi-Modal Encoding
 
-[Brain encoding models based on multimodal transformers can transfer across language and vision](https://arxiv.org/abs/2305.12248)), Arxiv 2023
+[Brain encoding models based on multimodal transformers can transfer across language and vision](https://arxiv.org/abs/2305.12248), Arxiv 2023
+
+[Interpreting Multimodal Video Transformers Using Brain Recordings](https://openreview.net/pdf?id=p-vL3rmYoqh)), ICLR 2023 (Multimodal Representation Learning Workshop)
 
 ## Brain Decoding
 
