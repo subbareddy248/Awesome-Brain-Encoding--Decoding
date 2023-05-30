@@ -70,6 +70,8 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ### Auditory Encoding
 
+[Self-supervised models of audio effectively explain human cortical responses to speech](https://proceedings.mlr.press/v162/vaidya22a/vaidya22a.pdf), ICML 2022
+
 [The Hierarchical Cortical Organization of Human Speech Processing](https://www.jneurosci.org/content/jneuro/37/27/6539.full.pdf), Journal of Neuroscience 2016
 
 ### Video Encoding
@@ -80,7 +82,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 [Brain encoding models based on multimodal transformers can transfer across language and vision](https://arxiv.org/abs/2305.12248), Arxiv 2023
 
-[Interpreting Multimodal Video Transformers Using Brain Recordings](https://openreview.net/pdf?id=p-vL3rmYoqh)), ICLR 2023 (Multimodal Representation Learning Workshop)
+[Interpreting Multimodal Video Transformers Using Brain Recordings](https://openreview.net/pdf?id=p-vL3rmYoqh), ICLR 2023 (Multimodal Representation Learning Workshop)
 
 ## Brain Decoding
 
