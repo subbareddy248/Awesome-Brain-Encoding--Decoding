@@ -13,6 +13,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
   * [Visual Encoding](#visual-encoding)
   * [Auditory Encoding](#auditory-encoding)
   * [Video Encoding](#video-encoding)
+  * [Multi-modal Encoding](#Multi-modal-encoding)
 * [Brain Decoding](#brain-decoding)
   * [Linguistic Decoding](#linguistic-decoding)
   * [Visual Decoding](#visual-decoding)
@@ -74,6 +75,10 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ### Video Encoding
 
 [How the Human Brain Makes Sense of a World in Motion](https://arxiv.org/ftp/arxiv/papers/2104/2104.13714.pdf), CCN 2021 [[code]](http://algonauts.csail.mit.edu/challenge.html)
+
+### Multi-Modal Encoding
+
+[Brain encoding models based on multimodal transformers can transfer across language and vision](https://arxiv.org/abs/2305.12248)), Arxiv 2023
 
 ## Brain Decoding
 
