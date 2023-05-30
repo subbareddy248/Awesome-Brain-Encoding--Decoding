@@ -36,6 +36,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ## Brain Encoding
 
 ### Linguistic Encoding
+[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), Arxiv 2023
 
 [Long-Term Plausibility of Language Models and Neural Dynamics during Narratives Listening](https://drive.google.com/file/d/1Ua19A8fT_4BJxSNHKdOw5H6e7__WacWz/view?usp=sharing), Cogsci 2022
 
