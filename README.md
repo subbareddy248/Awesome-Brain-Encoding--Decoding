@@ -31,13 +31,14 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ## Survey Papers
 
 [When Computational Representation Meets Neuroscience: A Survey on Brain Encoding and Decoding](https://www.ijcai.org/proceedings/2021/0594.pdf), IJCAI 2021
+[Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246)
 
 # Deep Learning for Brain Encoding and Decoding
 
 ## Brain Encoding
 
 ### Linguistic Encoding
-[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), Arxiv 2023
+[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023
 
 [Long-Term Plausibility of Language Models and Neural Dynamics during Narratives Listening](https://drive.google.com/file/d/1Ua19A8fT_4BJxSNHKdOw5H6e7__WacWz/view?usp=sharing), Cogsci 2022
 
