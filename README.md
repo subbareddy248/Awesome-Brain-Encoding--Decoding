@@ -40,7 +40,7 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ### Linguistic Encoding
 [Instruction-tuning Aligns LLMs to the Human Brain](https://arxiv.org/pdf/2312.00575.pdf), Arxiv
 
-[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023 [[code]] (https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)
+[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023 [[code]](https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)
 
 [Joint processing of linguistic properties in brains and language models](https://arxiv.org/pdf/2212.08094.pdf), NeurIPS 2023 [[code]](https://github.com/subbareddy248/lingprop-brain-alignment)
 
@@ -76,6 +76,12 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 [Neural Taskonomy: Inferring the Similarity of Task-Derived Representations from Brain Activity](https://proceedings.neurips.cc/paper/2019/file/f490c742cd8318b8ee6dca10af2a163f-Paper.pdf), NeurIPS 2019
 
 ### Auditory Encoding
+
+[Speech language models lack important brain-relevant semantics](https://arxiv.org/pdf/2311.04664.pdf) Arxiv
+
+[Meg encoding using word context semantics in listening stories](https://hal.science/hal-04148324/), Interspeech 2023 [[code]](https://github.com/subbareddy248/MEG_Encoding)
+
+[Speech Taskonomy: Which Speech Tasks are the most Predictive of fMRI Brain Activity?], Interspeech 2023 [[code]](https://github.com/BCCL-IIITH/Speech-Taskonomy)
 
 [Self-supervised models of audio effectively explain human cortical responses to speech](https://proceedings.mlr.press/v162/vaidya22a/vaidya22a.pdf), ICML 2022
 
