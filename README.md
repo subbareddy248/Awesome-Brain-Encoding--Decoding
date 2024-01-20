@@ -38,7 +38,13 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 ## Brain Encoding
 
 ### Linguistic Encoding
-[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023
+[Instruction-tuning Aligns LLMs to the Human Brain](https://arxiv.org/pdf/2312.00575.pdf), Arxiv
+
+[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023 [[code]] (https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)
+
+[Joint processing of linguistic properties in brains and language models](https://arxiv.org/pdf/2212.08094.pdf), NeurIPS 2023 [[code]](https://github.com/subbareddy248/lingprop-brain-alignment)
+
+[Training language models to summarize narratives improves brain alignment](https://arxiv.org/pdf/2212.10898.pdf), ICLR 2023 [[code]](https://github.com/awwkl/brain_language_narratives)
 
 [Long-Term Plausibility of Language Models and Neural Dynamics during Narratives Listening](https://drive.google.com/file/d/1Ua19A8fT_4BJxSNHKdOw5H6e7__WacWz/view?usp=sharing), Cogsci 2022
 
