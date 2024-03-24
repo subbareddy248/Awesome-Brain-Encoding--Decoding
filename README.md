@@ -43,7 +43,7 @@ Fig 9 in our survey paper [Deep Neural Networks and Brain Alignment: Brain Encod
     <img src="encoding.png" width="90%" style="align:center;"/>
 </p>
 
-### <img src="./fig/star.svg" width="15" height="15" /> Linguistic Encoding
+### <img src="star.svg" width="15" height="15" /> Linguistic Encoding
 1. **Instruction-tuning Aligns LLMs to the Human Brain** `preprint`
 
     *Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, and Antoine Bosselut.* [[PDF](https://arxiv.org/pdf/2312.00575.pdf)] Arxiv 2023, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
