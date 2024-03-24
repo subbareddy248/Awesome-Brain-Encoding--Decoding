@@ -167,6 +167,31 @@ Fig 9 in our survey paper [Deep Neural Networks and Brain Alignment: Brain Encod
 
 [Movies and Stories](https://berkeley.app.box.com/s/l95gie5xtv56zocsgugmb7fs12nujpog)
 
+## Contribution
+
+Contributions to this repository are welcome!
+
+If you find any error or have relevant resources, feel free to open an issue or a pull request.
+
+Paper format:
+```
+1. **[paper title].** `[]`
+
+    *[authors].* [[PDF]([pdf link])] [[Code]([code link])], published time, ![](https://img.shields.io/badge/[architecture]-blue) ![](https://img.shields.io/badge/[size]-red)
+```
+
+## Citations
+
+Please cite the following paper if you find the resource helpful for your research.
+```
+@article{oota2023deep,
+  title={Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)},
+  author={Oota, Subba Reddy and Gupta, Manish and Bapi, Raju S and Jobard, Gael and Alexandre, Fr{\'e}d{\'e}ric and Hinaut, Xavier},
+  journal={arXiv preprint arXiv:2307.10246},
+  year={2023}
+}
+```
+
 
 
 
