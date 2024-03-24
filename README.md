@@ -37,7 +37,14 @@ By [Subba Reddy Oota](https://subbareddy248.github.io/) (subba-reddy.oota@inria.
 
 ## Brain Encoding
 
+### <img src="./star.svg" width="15" height="15" /> Brain Encoding Survey Tree
+Fig 9 in our survey paper [Deep Neural Networks and Brain Alignment: Brain Encoding and Decoding (Survey)](https://arxiv.org/abs/2307.10246).
+<p align="center">
+    <img src="encoding.png" width="90%" style="align:center;"/>
+</p>
+
 ### Linguistic Encoding
+
 [Instruction-tuning Aligns LLMs to the Human Brain](https://arxiv.org/pdf/2312.00575.pdf), Arxiv
 
 [Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023 [[code]](https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)
