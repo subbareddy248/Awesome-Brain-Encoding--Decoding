@@ -48,7 +48,8 @@ Fig 9 in our survey paper [Deep Neural Networks and Brain Alignment: Brain Encod
 
     *Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, and Antoine Bosselut.* [[PDF](https://arxiv.org/pdf/2312.00575.pdf)] Arxiv 2023, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-[Scaling laws for language encoding models in fMRI](https://arxiv.org/abs/2305.11863), NeurIPS 2023 [[code]](https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)
+2. **Scaling laws for language encoding models in fMRI** `NeurIPS 2023`
+   *Richard Antonello, Aditya Vaidya, Alexander G. Huth.* [[PDF](https://arxiv.org/abs/2305.11863)] NeurIPS 2023, [[code](https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)] ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 [Joint processing of linguistic properties in brains and language models](https://arxiv.org/pdf/2212.08094.pdf), NeurIPS 2023 [[code]](https://github.com/subbareddy248/lingprop-brain-alignment)
 
