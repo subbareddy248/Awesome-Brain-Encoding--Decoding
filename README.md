@@ -44,11 +44,16 @@ Fig 9 in our survey paper [Deep Neural Networks and Brain Alignment: Brain Encod
 </p>
 
 ### <img src="star.svg" width="15" height="15" /> Linguistic Encoding
-1. **Instruction-tuning Aligns LLMs to the Human Brain** `preprint`
+
+- **Brain-Like Language Processing via a Shallow Untrained Multihead Attention Network** `preprint`
+
+  *Badr AlKhamissi, Greta Tuckute, Antoine Bosselut, and Martin Schrimpf.* [[PDF](https://arxiv.org/pdf/2406.15109)] Arxiv 2024, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+- **Instruction-tuning Aligns LLMs to the Human Brain** `preprint`
 
     *Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, and Antoine Bosselut.* [[PDF](https://arxiv.org/pdf/2312.00575.pdf)] Arxiv 2023, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-2. **Scaling laws for language encoding models in fMRI** `NeurIPS 2023`
+- **Scaling laws for language encoding models in fMRI** `NeurIPS 2023`
    
    *Richard Antonello, Aditya Vaidya, Alexander G. Huth.* [[PDF](https://arxiv.org/abs/2305.11863)] NeurIPS 2023, [[code](https://github.com/HuthLab/encoding-model-scaling-laws/tree/main)] ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
